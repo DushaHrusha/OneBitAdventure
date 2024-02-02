@@ -1,0 +1,4 @@
+repository "OneBitAdventure@AndrewNikitin@cloud"
+  path "/"
+    br "/main"
+    co "/main"
